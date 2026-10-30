@@ -38,7 +38,7 @@ Only for simple, positive comments. Anything with a question about price, a comp
 > Hey [name]! Going out to dance? 🔥 Our Latin nights: Thursday Room 44, Friday SoBe, Saturday TT DXB. If you're new to socials, come to Sunday Foundation first and we'll get you ready. Want the details for this week?
 
 **PRACTICE**
-> Monday Practice Night runs 9–11 PM at Dance Case Studio, JLT. All levels dance together, it's the best way to lock in what you learn. Shall I add you to this Monday's list?
+> Monday Practice Session is at D World Dance Studio, AED 30, [time]. All levels dance together, it's the best way to lock in what you learn. Shall I add you to this Monday's list?
 
 **BACHATA / DANCE** (general)
 > Hey [name]! Are you completely new to bachata, or have you danced before? That way I can tell you which class fits you best.

@@ -4,10 +4,14 @@ Shared context for every marketing skill in this repo. Read it before asking the
 
 ## What we sell
 - **Dubai Bachata** (@dubaibachata): beginner-first bachata classes by Saj & Emi, using the B-YOU Method, at Dance Case Studio, Fortune Executive Tower, Cluster T, JLT, Dubai.
-  - Sunday 8 PM Foundation, 9 PM Improvers; Monday 9–11 PM Practice Night; Thursday 7:30 Foundation, 8:30 Improvers, 9:30 Advanced (owner to confirm Thursday vs Wednesday).
-  - No partner needed. Trial AED 50 per the website (confirm before quoting). No other prices are confirmed.
+  - Sunday 8 PM Foundation, 9 PM Improvers; Thursday 7:30 Foundation, 8:30 Improvers, 9:30 Advanced (Sunday + Thursday per the website copy and Instagram bio).
+  - Monday Practice Session at D World Dance Studio, AED 30 (confirmed by the owner 30 Oct 2026; time to confirm).
+  - Websites (owner, 30 Oct 2026): bachataindubai.dance for classes; latincrazytribe.com for parties and the festival.
+  - No partner needed. Verified by Saj on 14 Sep 2026 (website paste pack): trial class AED 50 (60 min, booked on WhatsApp); class passes from AED 300/month; private coaching from AED 85; 6-session private block AED 1,390. Unconfirmed: a directory listing shows 12 classes for AED 650, so don't quote it.
+  - Booking: WhatsApp ("WhatsApp us your level, we'll put you in the right room") and the JOIN THE TRIBE WhatsApp group.
+  - Brand line: "Dance. Connect. Belong." Company: Danza Arte Events LLC.
   - B-YOU Path: Foundation → Improvers → Advanced → BachaZouk, with a monthly cohort start and graduations.
-- **Latin Crazy Tribe** (@latincrazytribe): Latin party nights. Thursday Room 44, Friday SoBe, Saturday TT DXB.
+- **Latin Crazy Tribe** (@latincrazytribe): Latin party nights. Current Instagram bio: Thursday Room 44, Friday SoBe, Saturday TT DXB. Website copy (14 Sep): Friday LA GRANDE at SoBe Rooftop, W Dubai The Palm, AED 69 incl. a drink; Saturday Latin Night at Twenty Three Rooftop, Grand Plaza Mövenpick Media City, ladies free till 10:30 PM, then AED 65 incl. a drink; Thursday was then Calentura at Secret Lounge, Montreal Hotel Al Barsha (free till 10:30 PM, then AED 55 incl. a drink) and has since moved to Room 44 per the bio, so confirm Thursday's price. No signup needed; tables reserved on WhatsApp.
 - **BachaZouk Dubai** (@bachazouk.dubai): BachaZouk workshops, socials and pool parties.
 - **Latin Crazy Festival Dubai** (@latincrazyfestival.dubai): 5th edition, 1–5 April 2027 (moved from 26–30 March). Bachafusion weekender, pool, boat and pre-parties, Jack & Jill championship.
 

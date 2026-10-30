@@ -47,8 +47,10 @@ Markdown files on Drive download as base64: decode with `base64 -d` into the scr
 
 - Teachers: Saj & Emi · Method: B-YOU · Brand family: Latin Crazy Tribe (LCT)
 - Venue: Dance Case Studio, Fortune Executive Tower, Cluster T, JLT, Dubai
-- Classes: SUN 8 PM Foundation · 9 PM Improvers | MON 9–11 PM Practice Night | THU 7:30 Foundation · 8:30 Improvers · 9:30 Advanced (owner to confirm Thu vs Wed)
-- No partner needed. Trial AED 50 (per website; confirm before quoting). No other prices.
+- Classes: SUN 8 PM Foundation · 9 PM Improvers | THU 7:30 Foundation · 8:30 Improvers · 9:30 Advanced
+- Practice: MON Practice Session at D World Dance Studio, AED 30 (time to confirm)
+- No partner needed. Prices verified by Saj (14 Sep 2026): trial AED 50 (60 min, booked on WhatsApp) · class passes from AED 300/month · private from AED 85 · 6-session private block AED 1,390. Nothing else.
+- Links: classes → bachataindubai.dance; parties and festival → latincrazytribe.com. Full facts in `.claude/product-marketing.md`.
 - LCT nights: Thu Room 44 · Fri SoBe · Sat TT DXB. LCT Festival: 1–5 Apr 2027 (moved from 26–30 Mar).
 - DM keywords: START, CLASS, SOCIAL, PRACTICE, SUNDAY, BACHATA
 - Bio link (UTM): `https://bachataindubai.dance?utm_source=instagram&utm_medium=social&utm_campaign=bio-link&utm_content=dubaibachata`
@@ -78,7 +80,7 @@ Publishing is connected for @dubaibachata only: Supermetrics team `1323081`, Ins
 - Hooks (every post, no exceptions): run the `negative-hooks` skill. Pick the family that fits, keep reel hooks to 12 words or fewer, give 3 options and mark one. Community brand: soft, never shaming. The body must deliver the hook's promise.
 - Every post ends with "Follow for a new move every week" plus one action (DM keyword or link in bio). Use the DM keywords that have scripts in the communication playbook.
 - Captions: hook in the first 125 characters, 3–5 hashtags, then the humanizer pass. It must sound like a person, not a brand.
-- Visuals: carousels 1080×1350 JPEG, reel covers 1080×1920 JPEG, rendered from HTML with Playwright. Cream base, Ink headlines in Anton, Inter body, one Coral accent, black text on coral for CTAs.
+- Visuals: carousels 1080×1350 JPEG, reel covers 1080×1920 JPEG, rendered from HTML with Playwright. Two looks (owner, 30 Oct 2026): **mindset carousels use the dark look** (Ink #171717 background, Paper White text, key phrases in Coral #EF7768); **class, promo and reel covers use the cream editorial collage** (Cream base, Ink Anton headlines, Inter body, one Coral accent, black text on coral for CTAs).
 - Minimal posting, maximum reach: @dubaibachata 3 original posts a week (Mon move-fix reel, Wed mindset carousel, Sat or Sun people or student reel). Each one goes out as a Collab with one face and one amplifier, so a single post reaches several audiences. @bachazouk.dubai and the festival get 1–2 a week only when there is news. Quality and human feel beat volume.
 
 ## Drive pipeline
