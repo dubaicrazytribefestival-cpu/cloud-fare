@@ -27,12 +27,12 @@ Only for simple, positive comments. Anything with a question about price, a comp
 | Tags a friend | "Bring them on Sunday 😉 First class is the hardest step." |
 | "I can't dance" / "too shy" | "That's exactly who our Sunday Foundation class is for. No partner needed." |
 | Shares their own nerves story | Goes to the owner (needs a personal reply). |
-| Asks time or location | "Sundays 8 PM at Dance Case Studio, JLT. DM us START and we'll send the details." |
+| Asks time or location | "Foundation is Sundays 8 PM and Thursdays 7:30 PM at Dance Case Studio, JLT. DM us START and we'll send the details." |
 
 ## 2. DM keyword scripts (paste into Instagram automations)
 
 **START / CLASS / SUNDAY**
-> Hey [name]! So happy you want to start 💃 Our Foundation class is on Sundays at 8 PM at Dance Case Studio, JLT (Fortune Executive Tower, Cluster T). No partner or experience needed. Want me to save you a spot this Sunday? Just reply YES and send your WhatsApp number.
+> Hey [name]! So happy you want to start 💃 Foundation runs Sundays 8 PM and Thursdays 7:30 PM at Dance Case Studio, JLT (Fortune Executive Tower, Cluster T), and a new group starts the first Sunday of every month. No partner or experience needed, and the trial is AED 50. Which day suits you? Message us on WhatsApp: +971 58 642 5833 or +971 52 779 9915.
 
 **SOCIAL**
 > Hey [name]! Going out to dance? 🔥 Our Latin nights: Thursday Room 44, Friday SoBe, Saturday TT DXB. If you're new to socials, come to Sunday Foundation first and we'll get you ready. Want the details for this week?
@@ -47,22 +47,22 @@ Only for simple, positive comments. Anything with a question about price, a comp
 > BachaZouk is bachata with zouk's flow 🌊 Our workshops and socials are on @bachazouk.dubai. Have you danced bachata before? Then I'll tell you which session to start with.
 
 **FESTIVAL**
-> The Latin Crazy Festival is 1–5 April 2027 in Dubai 🎉 Want me to send you the pass details and pre-party dates as soon as they're out?
+> The Latin Crazy Festival is coming to Dubai in spring 2027 🎉 Full Pass and Premium Pass. Want me to send you the dates and pass details as soon as they're out?
 
 ## 3. WhatsApp sequence (save each as a quick reply)
 
 | When | Message |
 |---|---|
-| Booked trial | "You're in for Sunday 8 PM at Dance Case Studio, JLT 🙌 Wear comfy shoes, bring water. Any questions, ask me here." |
+| Booked trial | "You're in for [Sunday 8 PM / Thursday 7:30 PM] at Dance Case Studio, JLT 🙌 Wear comfy shoes, bring water. Quick one: we sometimes film class for Instagram. Reply OK if you're happy to appear, or NO and we'll keep you out of shot." |
 | Day before | "See you tomorrow at 8! First class is always the hardest step, and you've already taken it 😉" |
 | After first class (same night) | "How did you feel tonight? Be honest 😄 Most people say they were nervous for 10 minutes, then forgot. Want me to keep your spot for next Sunday?" |
 | Day 3 | "Quick tip from Sunday: practise the basic to one song a day this week. 3 minutes. You'll feel the difference." |
-| Week 1 offer | "You're officially part of the Foundation group 💃 The next step is the [package name]. Want me to send the options?" (owner adds the package details) |
+| Week 1 offer | "You're officially part of the Foundation group 💃 Most people continue with our 4-class or 8-class package. Want me to send you the prices?" (prices are sent here only, never posted) |
 | Missed 2 classes | "Hey [name], we missed you the last two weeks! Everything ok? Your spot in the group is still yours." |
 | Week 4 | "One month in! Come to Monday Practice Night this week, it's where it all clicks." |
-| Graduation | "Congrats, you've graduated Foundation 🎓 Improvers starts [day]. We'd love to post your graduation, ok with you?" |
-| Advocacy (week 6) | "If you're enjoying it, a quick Google review would mean a lot: [link]. And if a friend keeps saying 'one day', bring them on Sunday." |
-| Festival | "You're ready for your first festival 🔥 Latin Crazy Festival, 1–5 April 2027. Want the student pass details when they open?" |
+| Graduation | "Congrats, you've graduated Foundation 🎓 Improvers Social starts [day]. We'd love to post your graduation, ok with you?" |
+| Advocacy (week 6) | "So happy you're with us 💃 If a friend keeps saying 'one day', bring them: when they sign up for a package, you get a class free." (add a Google review ask once the review link exists) |
+| Festival | "You're ready for your first festival 🔥 Latin Crazy Festival is coming in [dates, once confirmed], with Full and Premium passes. Want the details when they open? There's a student showcase too." |
 
 ## Labels to use in WhatsApp Business
 New lead · Trial booked · Attended trial · Package · Missed 2 · Graduated · Festival interest

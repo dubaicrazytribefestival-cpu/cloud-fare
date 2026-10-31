@@ -11,7 +11,7 @@ One system for planning, producing, approving, scheduling, communicating and rep
 
 The AI workflow runs the system end to end. The owner has exactly two weekly touchpoints:
 1. **One approval message** per week, after the Monday run ("approve week 3", or "approve week 3 except P2", or edits). That single message approves every listed post, time and collaborator for scheduling.
-2. **One filming session** at the Sunday class, from the shot lists.
+2. **One filming session** at the Thursday class, from the shot lists. Reels are edited AI-assisted (paid tools such as Higgsfield need a yes each time).
 
 Everything else (research, writing, design, hooks, scheduling after approval, comment replies from the approved Reply Bank, reporting) is Claude's job. Never ask the owner for something the data or this file already answers. Nothing is published that the owner has not approved, either per week or through the Reply Bank.
 
@@ -47,11 +47,14 @@ Markdown files on Drive download as base64: decode with `base64 -d` into the scr
 
 - Teachers: Saj & Emi · Method: B-YOU · Brand family: Latin Crazy Tribe (LCT)
 - Venue: Dance Case Studio, Fortune Executive Tower, Cluster T, JLT, Dubai
-- Classes: SUN 8 PM Foundation · 9 PM Improvers | THU 7:30 Foundation · 8:30 Improvers · 9:30 Advanced
+- Classes: SUN 8 PM Foundation · 9 PM Improvers Social | THU 7:30 Foundation · 8:30 Improvers Social · 9:30 Advanced
 - Practice: MON Practice Session at D World Dance Studio, AED 30 (time to confirm)
-- No partner needed. Prices verified by Saj (14 Sep 2026): trial AED 50 (60 min, booked on WhatsApp) · class passes from AED 300/month · private from AED 85 · 6-session private block AED 1,390. Nothing else.
-- Links: classes → bachataindubai.dance; parties and festival → latincrazytribe.com. Full facts in `.claude/product-marketing.md`.
-- LCT nights: Thu Room 44 · Fri SoBe · Sat TT DXB. LCT Festival: 1–5 Apr 2027 (moved from 26–30 Mar).
+- Levels: Foundation → Improvers Social → Intermediate Social → Advanced (BachaZouk). New Foundation group the first Sunday of every month.
+- Prices: only the AED 50 trial may appear publicly. 4-class and 8-class packages and private lessons: "message us on WhatsApp", never a number.
+- Bring-a-friend: friend buys a package → the student gets 1 class free.
+- Never: sensual framing, competitor names, published package prices.
+- Links: classes → bachataindubai.dance; parties and festival → latincrazytribe.com. WhatsApp: +971 58 642 5833 / +971 52 779 9915. Full facts in `.claude/product-marketing.md`.
+- LCT nights: Thu Room 44 · Fri SoBe · Sat TT DXB. LCT Festival 2027: dates under confirmation (owner wrote 26–29 Mar; Instagram shows 1–5 Apr), so publish no date until confirmed. Full Pass and Premium Pass; reveals from mid-November; student showcase planned.
 - DM keywords: START, CLASS, SOCIAL, PRACTICE, SUNDAY, BACHATA
 - Bio link (UTM): `https://bachataindubai.dance?utm_source=instagram&utm_medium=social&utm_campaign=bio-link&utm_content=dubaibachata`
 
@@ -81,7 +84,9 @@ Publishing is connected for @dubaibachata only: Supermetrics team `1323081`, Ins
 - Every post ends with "Follow for a new move every week" plus one action (DM keyword or link in bio). Use the DM keywords that have scripts in the communication playbook.
 - Captions: hook in the first 125 characters, 3–5 hashtags, then the humanizer pass. It must sound like a person, not a brand.
 - Visuals: carousels 1080×1350 JPEG, reel covers 1080×1920 JPEG, rendered from HTML with Playwright. Two looks (owner, 30 Oct 2026): **mindset carousels use the dark look** (Ink #171717 background, Paper White text, key phrases in Coral #EF7768); **class, promo and reel covers use the cream editorial collage** (Cream base, Ink Anton headlines, Inter body, one Coral accent, black text on coral for CTAs).
-- Minimal posting, maximum reach: @dubaibachata 3 original posts a week (Mon move-fix reel, Wed mindset carousel, Sat or Sun people or student reel). Each one goes out as a Collab with one face and one amplifier, so a single post reaches several audiences. @bachazouk.dubai and the festival get 1–2 a week only when there is news. Quality and human feel beat volume.
+- Cadence (owner, 31 Oct): @dubaibachata 4 original posts a week (Mon move-fix reel, Wed mindset carousel, Fri Saj & Emi demo or student story, Sun class or party moment). Each one goes out as a Collab with one face or brand account and one amplifier, so a single post reaches several audiences. Saj accepts Collab invites. @bachazouk.dubai and the festival get 1–2 a week only when there is news. Quality and human feel beat volume.
+- Logo: the Latin Crazy Tribe logo goes on slides and covers (original colours, on a clean paper panel).
+- Posting time: let the data decide. Use IGI `online_followers` by hour once @dubaibachata has 100+ followers; until then 7 PM Dubai.
 
 ## Drive pipeline
 
@@ -121,7 +126,7 @@ A weekly approval covers every post in that week's review page with the times an
 
 ### C. Comments (weekly, inside the Monday run)
 
-`list_comments` on every post from the last 14 days. Comments that match a Reply Bank type in `references/communication-playbook.md` get that reply posted with `comment`, but only once the owner has said "enable Reply Bank". Until then, draft them all and include them in the Monday message. Questions about price, complaints, personal stories and anything unclear always go to the owner. Never delete or hide a comment without the owner's say-so.
+`list_comments` on every post from the last 14 days. The Reply Bank is ON (owner, 31 Oct): comments that match a Reply Bank type in `references/communication-playbook.md` get that reply posted with `comment`. List what was posted in the Monday message. Questions about price, complaints, personal stories and anything unclear always go to the owner. Never delete or hide a comment without the owner's say-so.
 
 ### F. Communication: the next stage (viewer → lead → student → regular)
 
