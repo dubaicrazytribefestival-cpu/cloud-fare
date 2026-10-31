@@ -54,7 +54,7 @@ Markdown files on Drive download as base64: decode with `base64 -d` into the scr
 - Bring-a-friend: friend buys a package → the student gets 1 class free.
 - Never: sensual framing, competitor names, published package prices.
 - Links: classes → bachataindubai.dance; parties and festival → latincrazytribe.com. WhatsApp: +971 58 642 5833 / +971 52 779 9915. Full facts in `.claude/product-marketing.md`.
-- LCT nights: Thu Room 44 · Fri SoBe · Sat TT DXB. LCT Festival 2027: dates under confirmation (owner wrote 26–29 Mar; Instagram shows 1–5 Apr), so publish no date until confirmed. Full Pass and Premium Pass; reveals from mid-November; student showcase planned.
+- LCT nights: Thu Room 44 · Fri SoBe · Sat TT DXB. LCT Festival 2027: **26–29 March 2027** (confirmed 31 Oct 2026; never use 1–5 April). Full Pass and Premium Pass; reveals from mid-November; student showcase planned.
 - DM keywords: START, CLASS, SOCIAL, PRACTICE, SUNDAY, BACHATA
 - Bio link (UTM): `https://bachataindubai.dance?utm_source=instagram&utm_medium=social&utm_campaign=bio-link&utm_content=dubaibachata`
 

@@ -12,7 +12,7 @@ Shared context for every marketing skill in this repo. Read it before asking the
   - Bring-a-friend: if a friend signs up for a package, the student gets 1 class free.
 - **Latin Crazy Tribe** (@latincrazytribe): Latin party nights. Thursday Room 44, Friday SoBe (LA GRANDE, W Dubai The Palm), Saturday TT DXB / Twenty Three (Media City). No signup needed; tables on WhatsApp.
 - **BachaZouk Dubai** (@bachazouk.dubai): BachaZouk workshops, socials and pool parties.
-- **Latin Crazy Festival Dubai** (@latincrazyfestival.dubai): 5th edition. **Dates under confirmation:** the owner wrote "26–29 March 2027" in the questionnaire, while Instagram shows 1–5 April 2027. Do not publish a date until the owner confirms. Passes: Full Pass and Premium Pass (prices not for publishing yet). Artist reveals start mid-November once artists are confirmed. A student showcase is planned.
+- **Latin Crazy Festival Dubai** (@latincrazyfestival.dubai): 5th edition. **Confirmed dates: Friday 26 – Monday 29 March 2027** (owner, 31 Oct 2026). The old 1–5 April dates are void; the Instagram bio and the pinned "Postponed" post still show them and must be updated. Passes: Full Pass and Premium Pass (prices not for publishing yet). Artist reveals start mid-November once artists are confirmed. A student showcase is planned.
 
 ## Booking and contact
 - WhatsApp (shared inbox, both numbers): +971 58 642 5833 and +971 52 779 9915.

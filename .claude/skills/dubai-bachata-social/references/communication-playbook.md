@@ -47,7 +47,7 @@ Only for simple, positive comments. Anything with a question about price, a comp
 > BachaZouk is bachata with zouk's flow 🌊 Our workshops and socials are on @bachazouk.dubai. Have you danced bachata before? Then I'll tell you which session to start with.
 
 **FESTIVAL**
-> The Latin Crazy Festival is coming to Dubai in spring 2027 🎉 Full Pass and Premium Pass. Want me to send you the dates and pass details as soon as they're out?
+> The Latin Crazy Festival is on 26–29 March 2027 in Dubai 🎉 Full Pass and Premium Pass. Want me to send you the pass details as soon as they open?
 
 ## 3. WhatsApp sequence (save each as a quick reply)
 
@@ -62,7 +62,7 @@ Only for simple, positive comments. Anything with a question about price, a comp
 | Week 4 | "One month in! Come to Monday Practice Night this week, it's where it all clicks." |
 | Graduation | "Congrats, you've graduated Foundation 🎓 Improvers Social starts [day]. We'd love to post your graduation, ok with you?" |
 | Advocacy (week 6) | "So happy you're with us 💃 If a friend keeps saying 'one day', bring them: when they sign up for a package, you get a class free." (add a Google review ask once the review link exists) |
-| Festival | "You're ready for your first festival 🔥 Latin Crazy Festival is coming in [dates, once confirmed], with Full and Premium passes. Want the details when they open? There's a student showcase too." |
+| Festival | "You're ready for your first festival 🔥 Latin Crazy Festival is on 26–29 March 2027, with Full and Premium passes. Want the details when they open? There's a student showcase too." |
 
 ## Labels to use in WhatsApp Business
 New lead · Trial booked · Attended trial · Package · Missed 2 · Graduated · Festival interest
