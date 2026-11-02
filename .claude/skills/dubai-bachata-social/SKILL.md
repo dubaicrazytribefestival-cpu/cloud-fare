@@ -129,6 +129,19 @@ LCT-Business-Vault / 08 - Content Operations / Dubai Bachata (`1V1YqH45zmqx-UpM6
 
 Drive takes text only. Images go on a review page (Artifact) and are uploaded straight to Instagram at scheduling time.
 
+
+### Media folders (owner rule, 3 Nov: save every file by format)
+Inside both "01 - To Review" and "02 - Final Poster", save media into these subfolders. Never loose files.
+
+| Format | 01 - To Review | 02 - Final Poster |
+|---|---|---|
+| 1. Carousels (image slides, 1080×1350) | 1ZTzrnGUvrXaWbqmhPLs6QefQT1_CPLSA | 1Pd5YccxSfFYvYQPyoL3wMa-zr6Q30jEK |
+| 2. Stories (1080×1920) | 1CL6CIzNZozoAibLJyInppUXpl-pi4MQw | 1GDMrmBeyP4fl0dvP3Y18Q4JgyF1-dsc- |
+| 3. Reels (9:16 video + cover) | 1Tc97-YbFm3tOLGoNK9gDdSaGfU-fYUln | 1A1nm7VDcGeVAdvXfV78brqWSPlMU6bnk |
+| 4. 4:5 Carousel Videos (1080×1350 video slides) | 1enc5oW4S8qGvj2oMipSFOPoI8bxGFk4D | 1vwYkptTI44HzZRfpCTeaup-G0Shozti0 |
+
+Name files `YYYY-MM-DD_<post-code>_<slide-or-part>` (e.g. `2026-11-03_P2_slide-01.jpg`). Nothing is scheduled until the owner has seen the actual media and said yes to that post.
+
 ## Workflows
 
 ### A. Weekly run (Monday automation, or "write week N")
