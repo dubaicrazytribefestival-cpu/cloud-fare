@@ -67,6 +67,19 @@ Markdown files on Drive download as base64: decode with `base64 -d` into the scr
 | Amplifiers | @dance_dubai_videos (34k), @socialdancejournal, @latinnightsdubai | Reach; add as Collab partners |
 | Merge (owner's call) | @sajyemi | Point bio to @dubaibachata |
 
+### Account separation (owner rule, 2 Nov: never mix)
+
+Each brand has its own content. Before proposing or posting anything, check which brand the footage belongs to.
+
+| Account | Content that belongs here | Never post here |
+|---|---|---|
+| @dubaibachata | Saj & Emi's weekly classes in JLT (Foundation, Improvers, Advanced), beginner tips, student stories, class montages, Monday practice | Bacha Fusion / BachaZouk weekender footage, guest teachers (Tonio & Liza, Rami & Nefeli, Henar, Papi J), Jack & Jill, pool parties, festival passes |
+| @bachazouk.dubai (Bacha Fusion) | Bacha Fusion Weekender, BachaZouk workshops, guest-teacher classes and demos, Jack & Jill. Drive: "bachafusion marketing" (1w9YJ8EjeQonu_pOeJbCsHPxlldqdzprf), "Amaze raw" | Beginner class promos for @dubaibachata |
+| @latincrazytribe | Parties (Room 44, SoBe, TT DXB), Halloween, Slasher Friday, Mad House | Class teaching content as its main post |
+| @latincrazyfestival.dubai | Latin Crazy Festival 26–29 March 2027 | Weekender content |
+
+Weekender footage may reach @dubaibachata only as a Collab invite from @bachazouk.dubai, and only if the owner asks. @dubaibachata's own footage lives in "Dubai Bachata Explainer" and the Thursday class shoots.
+
 Default Collab rule: every brand post adds one face and one amplifier as collaborators (Instagram allows up to 3 invited collaborators; each must accept in the app).
 
 Publishing is connected for @dubaibachata only: Supermetrics team `1323081`, Instagram Insights (`IGI`) account id `17841475085186019`. Other accounts need their own IGI connection before they can be published to.
