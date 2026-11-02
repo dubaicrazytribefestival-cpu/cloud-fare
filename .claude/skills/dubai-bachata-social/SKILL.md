@@ -140,6 +140,8 @@ Inside both "01 - To Review" and "02 - Final Poster", save media into these subf
 | 3. Reels (9:16 video + cover) | 1Tc97-YbFm3tOLGoNK9gDdSaGfU-fYUln | 1A1nm7VDcGeVAdvXfV78brqWSPlMU6bnk |
 | 4. 4:5 Carousel Videos (1080×1350 video slides) | 1enc5oW4S8qGvj2oMipSFOPoI8bxGFk4D | 1vwYkptTI44HzZRfpCTeaup-G0Shozti0 |
 
+Two content tracks: **faceless** (animated explainers and graphic carousels, made by the reel-making agent; concept bank in 00 - Plan & Briefs, "Faceless explainer bank") and **recorded** (anything Saj & Emi film: briefs, shot lists and raw footage go in the Drive folder "Recorded by Saj y Emi", id 1OAA1iOLBZTZZH4RgCLKuEHkj8I1DkROB). Faceless is the priority track (owner, 3 Nov).
+
 Name files `YYYY-MM-DD_<post-code>_<slide-or-part>` (e.g. `2026-11-03_P2_slide-01.jpg`). Nothing is scheduled until the owner has seen the actual media and said yes to that post.
 
 ## Workflows
