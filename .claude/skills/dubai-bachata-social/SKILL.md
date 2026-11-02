@@ -69,16 +69,16 @@ Markdown files on Drive download as base64: decode with `base64 -d` into the scr
 
 ### Account separation (owner rule, 2 Nov: never mix)
 
-Each brand has its own content. Before proposing or posting anything, check which brand the footage belongs to.
+Bacha Fusion and BachaZouk are **events**, not Dubai Bachata. Never open, search, propose or use their folders, footage, captions or teachers for @dubaibachata unless the owner explicitly says so in that request. This applies to the "bachafusion marketing" Drive folder (and its subfolders "Saj video", "raw instagram"), "Amaze raw", and any weekender, workshop, guest-teacher, Jack & Jill or pool-party material.
 
-| Account | Content that belongs here | Never post here |
-|---|---|---|
-| @dubaibachata | Saj & Emi's weekly classes in JLT (Foundation, Improvers, Advanced), beginner tips, student stories, class montages, Monday practice | Bacha Fusion / BachaZouk weekender footage, guest teachers (Tonio & Liza, Rami & Nefeli, Henar, Papi J), Jack & Jill, pool parties, festival passes |
-| @bachazouk.dubai (Bacha Fusion) | Bacha Fusion Weekender, BachaZouk workshops, guest-teacher classes and demos, Jack & Jill. Drive: "bachafusion marketing" (1w9YJ8EjeQonu_pOeJbCsHPxlldqdzprf), "Amaze raw" | Beginner class promos for @dubaibachata |
-| @latincrazytribe | Parties (Room 44, SoBe, TT DXB), Halloween, Slasher Friday, Mad House | Class teaching content as its main post |
-| @latincrazyfestival.dubai | Latin Crazy Festival 26–29 March 2027 | Weekender content |
+| Account | Content that belongs here |
+|---|---|
+| @dubaibachata | Saj & Emi's weekly classes in JLT (Foundation, Improvers, Advanced), beginner tips, student stories, class montages, Monday practice. Sources: the Dubai Bachata Drive folder (1V1YqH45zmqx-UpM6WpGCeUXR0_d-3Cah), "Dubai Bachata Explainer", and the Thursday class shoots. |
+| @bachazouk.dubai / Bacha Fusion (events) | Weekenders, BachaZouk workshops, guest teachers, Jack & Jill. Only when the owner asks. |
+| @latincrazytribe | Parties (Room 44, SoBe, TT DXB, Halloween, Slasher Friday, Mad House). |
+| @latincrazyfestival.dubai | Latin Crazy Festival 26–29 March 2027. |
 
-Weekender footage may reach @dubaibachata only as a Collab invite from @bachazouk.dubai, and only if the owner asks. @dubaibachata's own footage lives in "Dubai Bachata Explainer" and the Thursday class shoots.
+When @dubaibachata has no finished footage, say so and plan around the next class shoot. Do not fill the gap with event content.
 
 Default Collab rule: every brand post adds one face and one amplifier as collaborators (Instagram allows up to 3 invited collaborators; each must accept in the app).
 
