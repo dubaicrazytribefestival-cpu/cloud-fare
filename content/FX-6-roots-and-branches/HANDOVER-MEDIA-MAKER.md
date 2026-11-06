@@ -4,7 +4,7 @@
 
 **For:** Media Maker agent · **Account:** @dubaibachata (Dubai Bachata, beginner classes by Saj & Emi, JLT)
 **What to make:** the "Bachata Family Tree" that people receive by DM when they comment **ROOTS** on the FX-6 reel.
-**Status of the reel:** final draft v5 (43.8 s, voice + music). Not posted yet. The DM asset must be ready **before** the reel goes live.
+**Status of the reel:** v5 posted 5 Nov and drew heritage criticism; a corrected v6 (Dominican bachata as trunk + roots) is coming. ROOTS requests are already arriving, so this asset is urgent.
 
 ---
 
@@ -57,7 +57,7 @@ Coral tints allowed for blossoms only: `#F28C7F` `#F5A398` `#F8BCB3` `#FAD2CB`. 
 - **Inter**: everything else. Labels 700 weight ~32–36 px, body 500–600 ~28–30 px, small caps meta 800 with 2–3 px letter-spacing.
 
 **Components (match the reel)**
-- **Label pill:** Paper White, fully rounded, soft shadow (0 8 24 rgba(60,40,30,0.18)), small coral number ("01") + ink style name.
+- **Label pill:** Paper White, fully rounded, soft shadow (0 8 24 rgba(60,40,30,0.18)), ink dance name (no ranking numbers).
 - **Highlight box:** coral at ~22% opacity behind a key word with thin coral corner handles (e.g. on "evolved" and "mastery").
 - **Stamp:** Anton, coral, distressed rubber-stamp texture, tilted −4° to −5°, double border. Use "BRANCH OUT" or "START HERE" (one per image max).
 - **Tag chip:** ink rectangle radius 12, Inter 800 uppercase paper text: "DOMINICAN BACHATA = TRUNK", "BRANCHES = DANCES IT INSPIRED", "ROOTS = WHERE YOU START".
@@ -65,11 +65,11 @@ Coral tints allowed for blossoms only: `#F28C7F` `#F5A398` `#F8BCB3` `#FAD2CB`. 
 - **Background:** Warm Cream with a very faint grid (1 px warm-grey lines at ~6% opacity, ~54 px spacing), soft paper-white glow behind the tree.
 
 **The tree (the hero)**
-- Warm-ink trunk splitting into **a strong trunk labelled DOMINICAN BACHATA and 4 clearly visible, gently curved branches** in a fan. The branches are the star: never hide them behind blossom.
+- A strong warm-ink trunk labelled **DOMINICAN BACHATA**, rising from the roots and splitting into **4 clearly visible, gently curved branches** in a fan. The trunk is the hero; never hide the branches behind blossom.
 - Each branch tip: a **small** coral blossom cluster + its label pill.
-- Roots: short, thin ink lines below a ground line, with the 4 root labels underneath. On this asset the roots can carry a soft coral tint (it's the "roots = basics" moment).
+- Roots: short, thin ink lines below a ground line, with the 4 root labels underneath. On this asset the roots can carry a soft coral tint (it's the "roots = where you start" moment).
 - Light, friendly, appealing. **No** dark, glowing, spooky or "hellish" look (owner feedback on an earlier version).
-- Visual reference frames from the reel: `ref/frame_35.9s.jpg` (tree diagram: copy the look, BUT Dominican must move from a branch to the trunk), `ref/frame_2.9s.jpg` (branches growing), `ref/frame_32.9s.jpg` (mascot + 5 styles), `ref/frame_41.9s.jpg` (CTA).
+- Visual reference frames from the reel: `ref/frame_35.9s.jpg` (tree diagram: copy the look, BUT Dominican must move from a branch to the trunk), `ref/frame_2.9s.jpg` (branches growing), `ref/frame_32.9s.jpg` (mascot scene: look only, the 5 equal pills are the old framing), `ref/frame_41.9s.jpg` (CTA).
 
 **Mascot (optional, small, bottom corner):** the friendly bearded cartoon man (dark quiff, full dark beard, rosy cheeks, ink tee with a coral music-note pin). Bold ink line art, flat fills. Cartoon only, not a likeness.
 
