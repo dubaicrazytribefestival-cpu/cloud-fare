@@ -116,6 +116,38 @@ Publishing is connected for @dubaibachata only: Supermetrics team `1323081`, Ins
 - Logo: the Latin Crazy Tribe logo goes on slides and covers (original colours, on a clean paper panel).
 - Posting time: let the data decide. Use IGI `online_followers` by hour once @dubaibachata has 100+ followers; until then 7 PM Dubai.
 
+## Heritage and naming stance (owner rule, 6 Nov 2026: check every post)
+
+Background: the FX-6 reel ("5 styles of bachata", 5 Nov) drew comments calling it "false information", "lying to people" and **"cultural appropriation"**. Critics are Dominican dancers and allies who see outsiders relabelling and teaching their heritage dance. Full report: Claude Doc "FX-6 Backlash Report: Bachata is Dominican".
+
+**Our stance (one line):** "Bachata is Dominican. We start every student at the roots, and we respect the dances it inspired by calling them what they are."
+
+1. **Origin first.** Bachata comes from the Dominican Republic (music and dance, UNESCO Intangible Cultural Heritage since Dec 2019). Say it plainly; credit it whenever history, styles or culture come up.
+2. **"Bachata" means Dominican bachata.** Never use "Dominican style" as one option among many.
+3. **Honest names for other dances.** Sensual, Moderna, Fusion, BachaZouk are dances that grew from or are danced to bachata music. Name them as their own dances, with their place of origin ("Sensual, a dance from Spain"), never as "styles of bachata" or "types of bachata".
+4. **Roots before branches.** Foundation teaches the basic step, footwork, musicality and culture first. That is the message, and it must be true in class.
+
+**Never write or show:**
+- "the 5 styles of bachata", "styles/types/kinds of bachata", "all of them are bachata", "real vs fake bachata"
+- Dominican bachata numbered or drawn as one item in a list or one branch of a tree (it is the trunk and the roots)
+- Claims that rank dances, call one "better", or say a dance "evolved past" its origin
+- Defining Dominican culture on Dominicans' behalf (what Dominicans "think", "dance" or "recognise") without a Dominican source
+- Stereotypes, flags or Dominican imagery used as decoration with no credit or context
+- #BachataStyles, #BachataSensual and similar debate hashtags on @dubaibachata (use #DominicanBachata, #BachataDubai)
+
+**Use instead:** "Bachata, from the Dominican Republic" · "the dances that grew out of bachata" · "they all trace back to the Dominican Republic" · Dominican bachata as trunk and roots, other dances as branches.
+
+**Events stay separate and honest:** Bacha Fusion and BachaZouk are fusion events built on bachata music. Market them as fusion, never as "bachata", and keep them off @dubaibachata (see Account separation).
+
+**Heritage-topic check (add to the 8-step pipeline, before content-audit):** any post that touches history, origins, styles, culture or "what bachata is" must pass:
+1. Does any line, label, number or visual put Dominican bachata on the same level as its offshoots? → fix.
+2. Does any word call another dance a "style/type of bachata"? → rename.
+3. Is the origin credited in the video AND the caption?
+4. Would a Dominican dancer read it as respectful? If unsure, soften or ask the owner.
+5. Flag it to the owner as "heritage topic" when sending for approval, and plan to check comments within 2 hours of posting.
+
+**When critics comment ("not bachata", "appropriation", "misinformation"):** never argue, never delete or hide honest criticism. Reply once: thank them, agree on the shared point (bachata is Dominican), say where we start students, invite them. Saj replies from his own account in first person. Hide only harassment, spam, or replies aimed at our leads (e.g. "Don't do it" under DM-keyword comments). Draft reply: "Thank you, and agreed: bachata is Dominican 🇩🇴. That's where every one of our students starts."
+
 ## Drive pipeline
 
 LCT-Business-Vault / 08 - Content Operations / Dubai Bachata (`1V1YqH45zmqx-UpM6WpGCeUXR0_d-3Cah`)
@@ -200,5 +232,6 @@ Known data gap: for some accounts IGPD2 returns followers but no posts at all (e
 
 - No publishing, scheduling, commenting or paid generation without owner approval: a weekly "approve week N", a per-post yes, or the enabled Reply Bank for simple comments. Paid generation (Higgsfield credits, ManyChat) always needs a separate yes.
 - No invented numbers, prices, testimonials or dates.
+- Heritage: follow "Heritage and naming stance" above. Never call other dances "styles of bachata"; bachata is Dominican.
 - The Supermetrics trial ends 13 Nov 2026. If calls return TRIAL_EXPIRED, stop and tell the owner; a paid plan must include "AI Chats".
 - Instagram throttles bursts: space one account's scheduled posts at least 5 minutes apart.
