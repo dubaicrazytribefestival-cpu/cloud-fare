@@ -116,6 +116,12 @@ Publishing is connected for @dubaibachata only: Supermetrics team `1323081`, Ins
 - Logo: the Latin Crazy Tribe logo goes on slides and covers (original colours, on a clean paper panel).
 - Posting time: let the data decide. Use IGI `online_followers` by hour once @dubaibachata has 100+ followers; until then 7 PM Dubai.
 
+## Mascots (owner rule, 6 Nov 2026)
+
+Two separate characters, never mixed or called "new":
+- **Main mascot**: the original bearded cartoon (drawn in code, FX-6 style) that represents Saj. Voice: Saj's cloned Higgsfield voice ("Saj-voice-1"). Default for brand and teaching reels.
+- **Young mascot**: a younger bearded 2D cartoon in the black tee with the coral music-note pin (AI-generated pose set: base, talk half/open, blink, point, thumbs-up, OK, peace, wave, thinking; Higgsfield base job 6bdb6b09). Voice: Higgsfield preset "Marcus" (6f98d3dd-324f-4845-8c28-c1d1647a06cd, speech_rate 15). Used for beginner-relatable reels such as FX-7.
+
 ## Heritage and naming stance (owner rule, 6 Nov 2026: check every post)
 
 Background: the FX-6 reel ("5 styles of bachata", 5 Nov) drew comments calling it "false information", "lying to people" and **"cultural appropriation"**. Critics are Dominican dancers and allies who see outsiders relabelling and teaching their heritage dance. Full report: Claude Doc "FX-6 Backlash Report: Bachata is Dominican".
