@@ -49,6 +49,18 @@ Only for simple, positive comments. Anything with a question about price, a comp
 **FESTIVAL**
 > The Latin Crazy Festival is on 26–29 March 2027 in Dubai 🎉 Full Pass and Premium Pass. Want me to send you the pass details as soon as they open?
 
+**SOLO** (FX-1 reel)
+> Your 3-step solo drill 💃 1) Start with your basic, always. 2) Add ONE thing: shoulders, arms or a pause. 3) Pick one instrument (the güira is easiest) and move to that. Do it to one song a day this week. Want to practise with us? Foundation is Sunday 8 PM and Thursday 7:30 PM at Dance Case Studio, JLT.
+
+**ROOTS** (FX-6 reel)
+> Here's your bachata family tree 🌳 Bachata is Dominican 🇩🇴: that's the trunk and the roots. Roots: body movement, musicality, culture, first step. Dances that grew out of it: Moderna · Sensual · Fusion · BachaZouk. Start at the roots, then explore one at a time. Want to build your roots with us? Foundation is Sunday 8 PM and Thursday 7:30 PM in JLT. Reply START and we'll save you a spot. (attach ROOTS_family_tree.png)
+
+**AGAIN** (FX-2 reel)
+> Your 3 tips 💃 1) Eyes up, not on your feet. 2) Match your partner's level. 3) Leave space for them to play with the music. Want to practise this? Foundation is Sunday 8 PM and Thursday 7:30 PM at Dance Case Studio, JLT.
+
+**BASIC** (FX-3 reel)
+> Your 2-minute drill 💃 Put on one slow bachata song. Soft knees, full weight on each step, count 1-2-3-tap. Don't move the hip on purpose: let it follow. One song a day this week. Want feedback? Foundation is Sunday 8 PM and Thursday 7:30 PM at Dance Case Studio, JLT.
+
 ## 3. WhatsApp sequence (save each as a quick reply)
 
 | When | Message |
