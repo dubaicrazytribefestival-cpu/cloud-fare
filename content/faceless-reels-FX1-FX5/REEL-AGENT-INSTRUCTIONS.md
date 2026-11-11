@@ -51,6 +51,8 @@ For each reel, confirm:
 - [ ] The music is licensed or royalty-free (write down its source)
 
 ## Step 6: Deliver
+**Current rule (11 Nov 2026):** follow `content/REEL-MAKER-HUB-PROTOCOL.md`: one Drive folder per post named with its Content Hub code, then paste the folder link into the Notion row's Media link and set Status to Review. The original instructions below still apply.
+
 Save the files to Google Drive: **Dubai Bachata › 01 - To Review › 3. Reels**, one folder per reel. Include a short note listing:
 - the voice used
 - the music track name and licence for each reel
