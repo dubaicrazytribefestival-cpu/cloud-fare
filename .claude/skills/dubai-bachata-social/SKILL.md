@@ -190,6 +190,8 @@ Two content tracks: **faceless** (animated explainers and graphic carousels, mad
 
 In Workflow A step 5, the reels subagent is the story planner: launch it with the week brief and the finder's outliers. It logs every story and result in `content/STORY-BANK.md`. Storytelling covers **2 primary accounts**: @dubaibachata (informative) and @latincrazytribe (party), each with its own playbook in `storytelling-templates/references/account-playbooks.md`. Other accounts only on request.
 
+**Content Hub (Notion, owner, 11 Nov 2026):** all agents read and write the Notion Content Hub (page `415eb2e4-50ad-81bb-a9eb-e904b1310c5d`, data source `collection://37649437-cc5a-4864-a478-dbc304017ada`). Status flow: Idea → Brief → In production → Review → Approved → Scheduled → Posted → Reported. The content tracker writes post metrics into each row at 48 h and 7 days and sets `Reported`. The owner approves by setting Status to `Approved`, or by leaving a comment on the row.
+
 Name files `YYYY-MM-DD_<post-code>_<slide-or-part>` (e.g. `2026-11-03_P2_slide-01.jpg`). Nothing is scheduled until the owner has seen the actual media and said yes to that post.
 
 ## Workflows

@@ -2,6 +2,8 @@
 
 Codes: `DB-` = @dubaibachata, `LCT-` = @latincrazytribe. Per-account rules: `.claude/skills/storytelling-templates/references/account-playbooks.md`.
 
+**Live tracker: Notion Content Hub** (https://app.notion.com/p/415eb2e450ad81bba9ebe904b1310c5d). This file is the repo mirror; the hub wins on any conflict.
+
 Owned by the `story-planner` agent (`.claude/agents/story-planner.md`). Formats: `.claude/skills/storytelling-templates/`.
 
 ## 1. Format coverage (what we've told so far)
