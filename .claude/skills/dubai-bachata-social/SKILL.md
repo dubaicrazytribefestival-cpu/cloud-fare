@@ -188,7 +188,7 @@ Two content tracks: **faceless** (animated explainers and graphic carousels, mad
 | **Story planner** (`.claude/agents/story-planner.md`) | Picks one of 10 story formats (`storytelling-templates` skill), writes hook, timed script, on-screen text, shot list, caption | Reel maker: `content/<CODE>-<slug>/STORY-BRIEF.md` |
 | Reel maker | Visuals, voice, music, SFX, export | Owner review |
 
-In Workflow A step 5, the reels subagent is the story planner: launch it with the week brief and the finder's outliers. It logs every story and result in `content/STORY-BANK.md`.
+In Workflow A step 5, the reels subagent is the story planner: launch it with the week brief and the finder's outliers. It logs every story and result in `content/STORY-BANK.md`. Storytelling covers **2 primary accounts**: @dubaibachata (informative) and @latincrazytribe (party), each with its own playbook in `storytelling-templates/references/account-playbooks.md`. Other accounts only on request.
 
 Name files `YYYY-MM-DD_<post-code>_<slide-or-part>` (e.g. `2026-11-03_P2_slide-01.jpg`). Nothing is scheduled until the owner has seen the actual media and said yes to that post.
 

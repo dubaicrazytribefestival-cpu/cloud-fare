@@ -1,11 +1,11 @@
 ---
 name: storytelling-templates
-description: Pick and fill one of 10 short-form storytelling formats (Hero's Journey, Personal Learning, Origin Story, Before/After, Goal/Dream Journey, Challenge, Win, Day in the Life, Personal Update, Mentor Story) for a Dubai Bachata reel or carousel. Use when the user says "story", "storytelling", "which format", "script this as a story", "turn this idea into a reel story", or when the story-planner agent builds a story brief.
+description: Pick and fill one of 10 short-form storytelling formats (Hero's Journey, Personal Learning, Origin Story, Before/After, Goal/Dream Journey, Challenge, Win, Day in the Life, Personal Update, Mentor Story) for @dubaibachata (informative classes) or @latincrazytribe (party nights) reels and carousels. Use when the user says "story", "storytelling", "which format", "script this as a story", "turn this idea into a reel story", or when the story-planner agent builds a story brief.
 ---
 
-# Storytelling Templates (Dubai Bachata edition)
+# Storytelling Templates (Dubai Bachata + Latin Crazy Tribe)
 
-10 first-person story formats for short-form video, adapted to Dubai Bachata (Saj & Emi, JLT). Full beat sheets and fill-in lines: `references/formats.md`. Source: "Storytelling Template Database", Short Form Academy (owner's copy, uploaded 11 Nov 2026), adapted.
+10 first-person story formats for short-form video. Full beat sheets and fill-in lines: `references/formats.md`. **Pick the account first**: `references/account-playbooks.md` sets the goal, tone, format priority, hooks, CTAs and guardrails for @dubaibachata (informative) and @latincrazytribe (party). The selector below is the @dubaibachata view; the party ranking is in the playbook. Source: "Storytelling Template Database", Short Form Academy (owner's copy, uploaded 11 Nov 2026), adapted.
 
 ## Pick the format in 30 seconds
 
