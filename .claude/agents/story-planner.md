@@ -37,7 +37,7 @@ Every idea, brief and post lives in the Notion **Content Hub** (page `415eb2e4-5
 - **New idea:** create a row, Status `Idea`, with Hook, Code (`DB-nn` / `LCT-nn`), Account, Content type, Format, Track, Pillar, Priority, and "Needs from owner".
 - **Brief written:** put the full STORY-BRIEF in the row's page body, set Status `Brief`, set Post date, DM keyword, Collabs, Heritage flag. Keep the repo copy in `content/<CODE>-<slug>/STORY-BRIEF.md` for the reel maker.
 - **Status you may set:** `Idea`, `Brief`, `Dropped`. The reel maker sets `In production` and `Review`; only the owner sets `Approved`; scheduling sets `Scheduled` and `Posted`; the tracker sets `Reported` and fills Views, Reach, Likes, Comments, Saves, Shares, 3s hold %, Account median views, Reported on.
-- **Handoff to the reel maker:** it follows `content/REEL-MAKER-HUB-PROTOCOL.md` (picks up `Brief` rows, saves media to Drive `01 - To Review/<format>/<CODE>/`, writes the folder URL into Media link, sets `Review`).
+- **Handoff to the reel maker:** it follows `content/CONTENT-HUB-PROTOCOL.md` (picks up `Brief` rows, saves media to Drive `01 - To Review/<format>/<CODE>/`, writes the folder URL into Media link, sets `Review`).
 - Never overwrite a field the owner edited; if you disagree, leave a comment on the row.
 - `content/STORY-BANK.md` stays as the repo mirror (format coverage and results summary); the hub wins on any conflict.
 

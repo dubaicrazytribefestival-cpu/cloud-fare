@@ -1,12 +1,31 @@
-# Reel maker ↔ Content Hub protocol
+# Content Hub protocol (every post, every format)
 
-This is how every reel and carousel moves from brief to review. It applies to any reel-making agent or person.
+**Rule (owner, 11 Nov 2026):** every piece of content gets one row in the Content Hub, whatever the format (reel, carousel, single image, story, 4:5 video), whoever made it (agent, editor, Saj & Emi) and however it was posted (scheduled or posted manually in the app). Nothing is "done" until it's in the hub.
+
+| Content type | Drive folder (01 - To Review) | Hub "Content type" |
+|---|---|---|
+| Reel | 3. Reels | Reel |
+| Carousel | 1. Carousels | Carousel |
+| Single image post | 1. Carousels | Single image |
+| Story | 2. Stories | Story |
+| 4:5 video | 4. 4:5 Carousel Videos | 4:5 video |
+
+## 0. Manual posts (posted straight from the Instagram app)
+You don't have to do anything. The content tracker runs a **daily sync**:
+1. Pull the account's posts from Instagram Insights (Supermetrics IGI, report `AccountMedia`, last 7 days).
+2. Match each post to a hub row by **IG media ID** (or IG link).
+3. Matched → set Status `Posted`, fill IG link, IG media ID and Post date.
+4. Not matched → create a row: Code `IG-MMDD`, Source `Manual post`, Status `Posted`, Content type from the media type, the caption's first line as Hook.
+5. At 48 h and 7 days → fill Views, Reach, Likes, Comments, Saves, Shares, Account median views, Reported on → Status `Reported`.
+@latincrazytribe joins the sync once its Instagram Insights is connected. Until then, add its manual posts by hand (a row with the IG link is enough).
+
+The steps below are for content made through the pipeline.
 
 **Content Hub (Notion):** https://app.notion.com/p/415eb2e450ad81bba9ebe904b1310c5d
 Database "Content", data source `collection://37649437-cc5a-4864-a478-dbc304017ada`
 
 ## 1. Pick up work
-- Take rows with **Status = Brief**. The brief is in the row's page, with a repo copy at `content/<CODE>-<slug>/STORY-BRIEF.md`.
+- Take rows with **Status = Brief** (any content type). The brief is in the row's page, with a repo copy at `content/<CODE>-<slug>/STORY-BRIEF.md`.
 - Set **Status → In production** when you start.
 - Paid tools (Higgsfield etc.) need the owner's yes each time. Ask with a comment on the row.
 
