@@ -15,7 +15,7 @@ Audio: instrument stems recorded by owner from a bachata practice app (Bachata R
 | 5 | Level five: the rhythm guitar, holding the groove. | 2.41 s |
 | 6 | Level six: the lead guitar, the requinto, playing the melody. | 2.82 s |
 | 7 | Level seven: you feel when the song is calm… and when the energy rises! | 3.37 s |
-| 8 | Bachata is Dominican music. Which level are you on? Be honest! | 3.33 s |
+| 8 | Which level are you on? Be honest! | 3.33 s |
 
 VO job ids: 104aed1a, cf05a4e3, 3ace6a30, 668f027f, bbf932ff, 7e446b15, 34796d0b, b2db3158, 53e89d0f (Higgsfield).
 
@@ -25,5 +25,5 @@ VO job ids: 104aed1a, cf05a4e3, 3ace6a30, 668f027f, bbf932ff, 7e446b15, 34796d0b
 Level 1 (vocals): instrumental under VO + mic/lyrics card; optional real Dominican song clip added in IG app.
 
 ## Caption
-Which level of bachata listening are you on? Be honest 👀 The singer, the bongó, the güira, the bass, the rhythm guitar, the lead guitar (requinto), and then the energy of the song. Bachata is Dominican music 🇩🇴. We used a practice track to split the instruments, so now listen for them in your favourite Dominican bachata songs 👂 Comment your level 👇
+Which level of bachata listening are you on? Be honest 👀 The singer, the bongó, the güira, the bass, the rhythm guitar, the lead guitar (requinto), and then the energy of the song. We used a practice track to split the instruments, so now listen for them in your favourite Dominican bachata songs 👂 Comment your level 👇
 #DominicanBachata #BachataMusic #BachataForBeginners #BachataDubai #DubaiBachata

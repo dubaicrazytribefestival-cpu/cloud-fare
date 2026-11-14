@@ -240,6 +240,6 @@ Known data gap: for some accounts IGPD2 returns followers but no posts at all (e
 
 - No publishing, scheduling, commenting or paid generation without owner approval: a weekly "approve week N", a per-post yes, or the enabled Reply Bank for simple comments. Paid generation (Higgsfield credits, ManyChat) always needs a separate yes.
 - No invented numbers, prices, testimonials or dates.
-- Heritage: follow "Heritage and naming stance" above. Never call other dances "styles of bachata"; bachata is Dominican.
+- Heritage: follow "Heritage and naming stance" above. Never call other dances "styles of bachata". (The line "Bachata is Dominican" is PAUSED in reels, see above.)
 - The Supermetrics trial ends 13 Nov 2026. If calls return TRIAL_EXPIRED, stop and tell the owner; a paid plan must include "AI Chats".
 - Instagram throttles bursts: space one account's scheduled posts at least 5 minutes apart.

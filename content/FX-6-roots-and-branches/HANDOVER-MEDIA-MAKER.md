@@ -22,7 +22,7 @@ PNG, sRGB. Nothing in the bottom 10% of the 9:16 version except the small handle
 
 ## 3. Content (use this wording exactly)
 **Title:** THE BACHATA FAMILY TREE
-**Subtitle:** Bachata is Dominican 🇩🇴. These dances grew out of it.
+**Subtitle:** These dances grew out of bachata.
 
 **TRUNK (big label on the trunk):** DOMINICAN BACHATA · Quick footwork, pure feel, the music first.
 
@@ -83,7 +83,6 @@ Coral tints allowed for blossoms only: `#F28C7F` `#F5A398` `#F8BCB3` `#FAD2CB`. 
 
 ## 6. DM auto-reply text (keyword: ROOTS)
 > Here's your bachata family tree 🌳
-> Bachata is Dominican 🇩🇴: that's the trunk and the roots.
 > Roots: body movement, musicality, culture, first step.
 > Branches that grew out of it: Moderna · Sensual · Fusion · BachaZouk.
 > Start at the roots, then explore the branches one at a time.

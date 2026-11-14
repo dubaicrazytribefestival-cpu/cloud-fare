@@ -53,7 +53,7 @@ Only for simple, positive comments. Anything with a question about price, a comp
 > Your 3-step solo drill 💃 1) Start with your basic, always. 2) Add ONE thing: shoulders, arms or a pause. 3) Pick one instrument (the güira is easiest) and move to that. Do it to one song a day this week. Want to practise with us? Foundation is Sunday 8 PM and Thursday 7:30 PM at Dance Case Studio, JLT.
 
 **ROOTS** (FX-6 reel)
-> Here's your bachata family tree 🌳 Bachata is Dominican 🇩🇴: that's the trunk and the roots. Roots: body movement, musicality, culture, first step. Dances that grew out of it: Moderna · Sensual · Fusion · BachaZouk. Start at the roots, then explore one at a time. Want to build your roots with us? Foundation is Sunday 8 PM and Thursday 7:30 PM in JLT. Reply START and we'll save you a spot. (attach ROOTS_family_tree.png)
+> Here's your bachata family tree 🌳 Roots: body movement, musicality, culture, first step. Dances that grew out of it: Moderna · Sensual · Fusion · BachaZouk. Start at the roots, then explore one at a time. Want to build your roots with us? Foundation is Sunday 8 PM and Thursday 7:30 PM in JLT. Reply START and we'll save you a spot. (attach ROOTS_family_tree.png)
 
 **AGAIN** (FX-2 reel)
 > Your 3 tips 💃 1) Eyes up, not on your feet. 2) Match your partner's level. 3) Leave space for them to play with the music. Want to practise this? Foundation is Sunday 8 PM and Thursday 7:30 PM at Dance Case Studio, JLT.
