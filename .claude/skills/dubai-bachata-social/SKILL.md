@@ -126,6 +126,8 @@ Two separate characters, never mixed or called "new":
 
 Background: the FX-6 reel ("5 styles of bachata", 5 Nov) drew comments calling it "false information", "lying to people" and **"cultural appropriation"**. Critics are Dominican dancers and allies who see outsiders relabelling and teaching their heritage dance. Full report: Claude Doc "FX-6 Backlash Report: Bachata is Dominican".
 
+**PAUSED (owner, 14 Nov 2026): do not put the line "Bachata is Dominican" (or 🇩🇴 slogans) in any reel: no VO, on-screen text, end card or reel caption, until the owner lifts this. The rest of the heritage rules still apply (never "styles of bachata", never Dominican as one branch).**
+
 **Our stance (one line):** "Bachata is Dominican. We start every student at the roots, and we respect the dances it inspired by calling them what they are."
 
 1. **Origin first.** Bachata comes from the Dominican Republic (music and dance, UNESCO Intangible Cultural Heritage since Dec 2019). Say it plainly; credit it whenever history, styles or culture come up.
